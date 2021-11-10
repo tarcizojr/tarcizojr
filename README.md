@@ -12,6 +12,6 @@
   
   <img align="center" alt="TJ-Python" height="30" width="40" src="https://user-images.githubusercontent.com/62778670/141026924-9afb6d75-2e8c-48e2-a12d-28b60e75c522.png">
 
-    ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+    ![Snake animation](https://github.com/tarcizojr/tarcizojr/blob/output/github-contribution-grid-snake.svg)
 </div>
   
